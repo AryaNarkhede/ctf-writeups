@@ -1,6 +1,8 @@
 # CTF Writeups
 
-This repository is for storing and sharing CTF (Capture The Flag) writeups. The goal is to create a knowledge base of well-documented solutions to various cybersecurity challenges.
+This repository is for storing and sharing CTF (Capture The Flag) writeups. The goal is to create a knowledge base of well-documented solutions to various cybersecurity challenges. 
+
+[Golden Advice for CTFs and CP](https://www.youtube.com/watch?v=Lus7aNf2xDg)
 
 ## How to Write a Good Writeup
 
